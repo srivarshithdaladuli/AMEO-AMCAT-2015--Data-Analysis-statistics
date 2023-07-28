@@ -64,7 +64,7 @@ Please ensure that your contributions align with the project's goals and follow 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code in accordance with the terms of the license.
+This project is licensed under the [GNU License](LICENSE.md). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ## Acknowledgments
 
